@@ -4,7 +4,7 @@ title: Polar Flip 개인정보처리방침 / Privacy Policy
 
 # Polar Flip 개인정보처리방침
 
-개발사: 분홍신 (RedShoes)  
+개발사: 분홍신 (Pink Shoes)  
 시행일: 2026년 11월 6일
 
 Polar Flip(이하 "게임")은 이용자의 개인정보를 소중히 다룹니다. 이 방침은 게임이 어떤 정보를 다루는지, 그리고 이용자가 무엇을 고를 수 있는지 설명합니다.
@@ -47,7 +47,7 @@ Google이 정보를 어떻게 다루는지는 다음에서 볼 수 있습니다.
 
 # Polar Flip Privacy Policy
 
-Developer: RedShoes (분홍신)  
+Developer: Pink Shoes (분홍신)  
 Effective date: November 6, 2026
 
 ## 1. Information the game collects

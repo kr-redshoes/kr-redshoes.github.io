@@ -10,6 +10,6 @@ A rhythm action runner in black and white. Jump and flip your color to the beat 
 
 - [개인정보처리방침 / Privacy Policy](privacy)
 
-개발사 / Developer: 분홍신 (RedShoes)
+개발사 / Developer: 분홍신 (Pink Shoes)
 
 문의 / Contact: kr.redshoes@gmail.com
